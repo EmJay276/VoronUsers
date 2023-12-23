@@ -1,4 +1,4 @@
-Stealthburner (RC1) Phaetus Dragon UHF and Phaetus Dragon UHF mini Fan Duct
+Stealthburner Phaetus Dragon UHF and Phaetus Dragon UHF mini tool cartridge
 ===
 With special thanks to @eamers for the Crazy dragon heatblock, as well as @bythorsthunder for the Stealthburner Rapido UHF body design the awesome base design from the VoronDesign team! 
 
